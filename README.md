@@ -73,6 +73,7 @@
   <img width="10%" style="padding:5px" src="https://img.icons8.com/fluency/144/laravel.png"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/linux"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/zorin"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=ZbBhBW0N2q3D&format=png&color=000000"/>
 </p>
 
 <!--horizontal divider(gradiant)-->
