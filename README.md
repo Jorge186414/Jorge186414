@@ -45,6 +45,10 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jorge186414&theme=tokyonight" alt="mystreak"/>
 </a>
 </p>
+<a href="https://github.com/Jorge186414">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge186414&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge186414&layout=compact&langs_count=7&theme=one_dark_pro"/>
+</a>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -56,6 +60,8 @@
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-programming"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/html-5"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/css3"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/maria-db.png"/>
@@ -73,6 +79,9 @@
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/linux"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/zorin"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=ZbBhBW0N2q3D&format=png&color=000000"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000"/>
+  
 </p>
 
 <!--horizontal divider(gradiant)-->
