@@ -21,7 +21,7 @@
 
 # 💫 About Me:
 - 🌱 I am currently a computer systems engineering student at the Tecnologico de Estudios Superiores de Jilotepec
-- 🌱 I’m currently learning HTML, CSS, PHP, Java, Python
+- 🌱 I’m currently learning NestJS, Docker
 - 🤔 I’m looking for help with Machine Learning
 - 📫 How to reach me: jorgaismiranda@gmail.com
 - 😄 Pronouns: He/Him
@@ -51,32 +51,35 @@
 ### Languajes and Tools
 
 <p align="center">
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-programming"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/html-5"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/css3"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/maria-db.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/fluency/144/mysql-logo.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/apache-netbeans"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/android-studio"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/docker"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/arduino"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/dusk/144/php-logo.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/ios/144/maven-ios.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/dusk/144/navicat.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/firefox"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/fluency/144/laravel.png"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python"/>
+</p>
+
+<p align="center">
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/linux"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=17838&format=png&color=000000"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/zorin"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=ZbBhBW0N2q3D&format=png&color=000000"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000"/>
-  
+</p>
+
+<p align="center">
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/docker"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=OrZMxhqm7nsr&format=png&color=000000"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000"/>
+</p>
+
+<p align="center">
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/maria-db.png"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/fluency/144/mysql-logo.png"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/dusk/144/navicat.png"/>
 </p>
 
 <!--horizontal divider(gradiant)-->
