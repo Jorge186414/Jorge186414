@@ -42,8 +42,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge186414&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jorge186414&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jorge186414&theme=tokyonight" alt="mystreak"/>
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jorge186414&theme=darcula&hide_border=true)](https://git.io/streak-stats)</a>
 </p>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
